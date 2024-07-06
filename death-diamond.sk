@@ -1,0 +1,2 @@
+on respawn:
+    give 1 of diamond to player
